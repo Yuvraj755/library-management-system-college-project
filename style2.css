@@ -1,0 +1,90 @@
+nav{
+    width: 100%;
+    height: 75px;
+    padding-top: 0px 100px; 
+    background-image: linear-gradient(#317f97,#d5dee1);
+    
+}
+.aa{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.munna{
+ font-size: 30px;
+ font-weight: bold;
+ float:left;
+ color: rgb(33, 29, 29);
+ letter-spacing: 1.5px;
+ cursor: pointer;
+}
+nav ul{
+    float: right;
+}                       
+nav li{
+    display: inline-block;
+    list-style: none;
+}
+nav li a{
+    font-size: 18px;
+    padding: 0px 30px;
+    color: white;
+    text-decoration: none;
+}
+nav li a:hover{
+    color: #ff8c69;
+    transition: all 0.4s ease 0s;
+}
+.main{
+    width: 100%;
+    height: 500px;
+    background: url(https://www.skoolbeep.com/new/images/contact/contact-banner.jpg);
+}
+.contact{
+    text-align: center;
+    font-size: 50px;
+}
+.text{
+    font-size: 30px;
+}
+.name{
+    height: 30px;
+    width: 500px;
+    border: 2px solid black;
+    border-radius: 13px;
+}
+.college{
+    height: 30px;
+    width: 500px;
+    border: 2px solid black;
+    border-radius: 13px;
+}
+.location{
+    height: 30px;
+    width: 500px;
+    border: 2px solid black;
+    border-radius: 13px;
+}
+.email{
+    
+    height: 30px;
+    width: 500px;
+    border: 2px solid black;
+    border-radius: 13px;
+}
+.button{
+    height: 30px;
+    width: 150px;
+    background-color: rgb(10, 10, 82);
+    color: white;
+    border: 3px solid black;
+    border-radius: 15px;
+    margin-left: 200px;
+    margin-top: 10px;
+}
+.button:hover{
+ background-color: #ff8c69;
+ columns: black;
+ height: 32px;
+ width: 153px;
+}
