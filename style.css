@@ -1,0 +1,163 @@
+body{
+    background-color: rgb(111, 235, 235);
+    margin: 0PX;
+    padding: 0PX;
+    box-sizing: border-box;
+}
+nav{
+    width: 100%;
+    height: 75px;
+    padding-top: 0px 100px;
+    position: fixed;
+    background-image: linear-gradient(#317f97,#d5dee1);
+    
+}
+.aa{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.munna{
+ font-size: 30px;
+ font-weight: bold;
+ float:left;
+ color: rgb(33, 29, 29);
+ letter-spacing: 1.5px;
+ cursor: pointer;
+}
+nav ul{
+    float: right;
+}                       
+nav li{
+    display: inline-block;
+    list-style: none;
+}
+nav li a{
+    font-size: 18px;
+    padding: 0px 30px;
+    color: white;
+    text-decoration: none;
+}
+nav li a:hover{
+    color: #ff8c69;
+    transition: all 0.4s ease 0s;
+}
+.yuvi{
+    height: 589px;
+    width: 1500px;
+    margin-left: 10px;
+    background-color: black;
+    background-image: url(library-management-bnr.jpg);
+    background-size: cover;
+    
+}
+.yuvraj{
+    height: 800px;
+    width: 1300px;
+    background-image: url(WHAT-IS-THE-PURPOSE-OF-A-LIBRARY-MANAGEMENT-SYSTEM-min.png);
+    background-size: cover;
+}
+.shashi{
+    height: 800px;
+    width: 800px;
+    background-image: url(HOW-DO-YOU-DESIGN-A-LIBRARY-MANAGEMENT-SYSTEM-min-768x768.png);
+}
+.manish{
+    height: 1000px;
+    width: 1000px;
+    background-image: url(WHAT-SYSTEM-DOES-A-LIBRARY-USE-min.png);
+}
+.shubham{
+    height: 700px;
+    width: 1000px;
+    background-image: url(HOW-DO-YOU-MANAGE-A-LIBRARY-min.png);
+}
+.rakesh{
+    height: 500px;
+    width: 1200px;
+    background-image:url(THE-MAIN-CLASSES-OF-OUR-LIBRARY-MANAGEMENT-min.png);
+}
+.priya{
+    color: rgb(124, 7, 233);
+}
+.abhi{
+    color: brown;
+}
+.nandu{
+    color: blue;
+}
+.manu{
+    color: brown;
+}
+.babu{
+    color: blue;
+}
+.tum{
+    height: 600px;
+    width: 1150px;
+    background-image: url(tu.png)
+}
+.ham{
+    color: brown;
+}
+.nahi{
+    color: blueviolet;
+}
+.aap{
+    color: burlywood;
+}
+.beauty{
+    color: chocolate;
+}
+.ravi{
+    color: white;
+}
+.rajput{
+    height: 550px;
+    width: 1050px;
+    background-image: url(BEST-LIBRARY-AUTOMATION-SOFTWARE-min.png);
+}
+.rohan{
+    color: brown;
+}
+.rajnish{
+    color: blue;
+}
+.vivek{
+    color: rgb(72, 3, 72);
+}
+.binit{
+    font-size: 30px;
+    font-weight: bold;
+}
+.rishu{
+    height: 500px;
+    width: 1400px;
+    background-image: url(WHY-CONSIDER-SKOOLBEEP-THE-BEST-SCHOOL-LIBRARY-AUTOMATION-SOFTWARE-min.png);
+}
+.title{
+    font-weight: bolder;
+    font-style: inherit;
+
+}
+.img-div{
+    height: 670px;
+    width: 730px;
+    background-image: url(FEATURES-OF-LIBRARY-MANAGEMENT-SYSTEM-SOFTWARE-min-768x673.png);
+}
+.rahul{
+    height: 510px;
+    width: 710px;
+    background-image: url(WHY-SHOULD-LIBRAIRES-INVEST-IN-LIBRARY-MANAGEMENT-SYSTEM-SOFTWARE-min-768x527.png);
+}.this{
+    width: 760px;
+    height: 440px;
+    background-image: url(THE-LATEST-TRENDS-AND-STRATEGIES-USED-IN-LIBRARY-AUTOMATION-SYSTEMS-min-768x438.png);
+}
+.what{
+    width: 100%;
+    height: 500px;
+    background-image: url(WHAT-ARE-THE-POINTS-TO-BE-CONSIDERED-WHEN-INVESTING-IN-LIBRARY-AUTOMATION-SOFTWARE-min.png);
+}.last{
+    text-align: center;
+}
